@@ -6,4 +6,3 @@ def rotate_binary_to_decimal(A, k):
     return decimal_value
 print(rotate_binary_to_decimal("1011", 1))  
 print(rotate_binary_to_decimal("1011", 2))
-
