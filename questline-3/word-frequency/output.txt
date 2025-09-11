@@ -1,0 +1,6 @@
+python => 2
+is => 2
+a => 1
+language => 1
+and => 1
+simple => 1
