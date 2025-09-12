@@ -1,0 +1,24 @@
+We have 4 people who need to cross the narrow bridge
+
+Person A = 1 minute , Person B = 2 minutes , Person C = 7 minutes , Person D = 10 minutes . 
+Only 2 people can cross at once, and they must walk at the slower person’s speed. The torch must always be carried. 
+
+=> A and B go first :
+      Time taken = 2 minutes  . Now A and B are on the other side.
+
+=> A comes back with torch :
+      Time taken = 1 minute . Now A, C, D on the start side; B is waiting on the other side.
+
+=> C and D cross together :
+      Time taken = 10 minutes . Now C and D are on the other side with B , only A left behind .
+
+=> B comes back with torch:
+      Time taken = 2 minutes . Now A and B are on start side; C and D are on other side.
+
+=> A and B cross again:
+      Time taken = 2 minutes . Finally, all 4 are on the other side. And crossed the bridge .
+      
+ACCORDING TO ME B COMES BACK WITH TOURCH . [BASICALLY THIS IS MY APPROXIMATION & THOUGHTS]
+
+
+TOTLA TIME : 2 + 1 + 10 + 2 + 2 = 17 minutes [APPROX]
