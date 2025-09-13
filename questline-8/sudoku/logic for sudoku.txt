@@ -1,0 +1,8 @@
+=> In row 1 the missing numbers are 1,2,4. In column 1 no         number is there so giving  1 there.
+
+=> Row 4 has already has a 1. col(1,2,3) already has 3. so  I am giving  3 on 4th row 4 column.
+
+=> 3rd row needs 1 somewhere , column(2,4 ) has already  1  
+   so I m giving 1 on 3rd row 3rd column
+
+=> On all other rows and column im giving 2 and 4               according to blanks and numbers  
