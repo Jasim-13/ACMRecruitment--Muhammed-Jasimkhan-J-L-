@@ -1,0 +1,7 @@
+WHY I USE BUBBLE SORT?
+
+=> I have thought that to use bubble sort to use in this problem.
+=> It is one of the most simplest way of sorting method.
+=> It compares two numbers at a time and swaps them if they are in the wrong order .
+=> By using this method the bigger numbers gradually move to the end .
+=> this sorting method is very easy to follow and understand .
