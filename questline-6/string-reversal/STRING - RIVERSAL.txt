@@ -1,0 +1,18 @@
+STRING - RIVERSAL for this i has used two ways . Interative method and recursive method. 
+
+
+=> Iterative method :
+	for this method i started with a empty string and added each character to front one 	by  one .
+	So he string become reversed.
+	This way is simple , understandable and used only basic loops
+
+=> Recursive Method:
+	For this I used a function calling itself. 
+	The idea is used to take the first chara and put it at the end , then call the 			function again for remaining part of the string .
+	This method will goes on until the string is empty .
+	After that the chara are joined back in reverse order.
+
+ 
+
+Both the methods work in a different manner but gives the same result . The itearative method is more direct , on other hands recursion shows how the problem can be broken into smaller parts
+
