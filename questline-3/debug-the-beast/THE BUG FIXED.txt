@@ -1,0 +1,10 @@
+ THE BUG FIXED:
+
+
+The bug was  on the line " elif num > second:".
+the problem with this code is if the biggest number appeared in the in the list appeared more than once the code will read as it as the both largest and the second largest This gave wrong results.
+
+
+HOW I FIXED THE BUG:
+
+I solved this code by giving the condition " elif num > second and num != largest". So the same nummber is not counted again as the second largest . With this mall change , the programe now gives the second largest number from the list.
