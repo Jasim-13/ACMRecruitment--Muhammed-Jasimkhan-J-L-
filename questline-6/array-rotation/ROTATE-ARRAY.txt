@@ -1,0 +1,9 @@
+ROTATE-ARRAY
+
+=> Checked the length of the array(n).
+=> If K is bigger than n , I used K% n so that the rotation does not go extra.
+=> I made a new list with the same size to store the rotated numbers.
+=> For every number in the original array , I calculated its new position using (i+k)%n.
+=> then I placed the number into that new position .
+=> At the end the new list is the rotated array.
+=> This method is simple and easy to understand with loops.
